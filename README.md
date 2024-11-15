@@ -1,0 +1,2 @@
+# Fullstack Sui Dapp Template
+
